@@ -2,4 +2,4 @@
 
 It's just a tetris clone made with Svelte
 
-By Carolina Audrs
+By Carolina Audra
